@@ -1,0 +1,9 @@
+Package: QuantST
+Title: What the Package Does (one line, title case)
+A package for writing an EA based on technical indicators and applying this to either a single time series or thousands in succession
+Version: 0.0.0.9000
+Authors@R: “Noah”,”Florin-Sefton”,”Author”, “Creator”
+Description: What the package does (one paragraph).
+Depends: R (>= 3.4.0) packages ‘QuantTools’ and ‘quantmod’ also required
+Encoding: UTF-8
+LazyData: true
